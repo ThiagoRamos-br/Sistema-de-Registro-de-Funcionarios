@@ -1,4 +1,3 @@
-﻿# Sistema-de-cadastro-Employee
 # Sistema de Registro de Funcionários
 
 Projeto em Java para gerenciar o cadastro e controle de funcionários, com funcionalidades para adicionar, listar, buscar e atualizar informações.
@@ -14,13 +13,10 @@ Projeto em Java para gerenciar o cadastro e controle de funcionários, com funci
 
 1. Clone este repositório:
 
-## Como usar
-
-1. Clone o repositório:
-
 ```bash
 git clone https://github.com/SeuUsuario/SeuRepositorio.git
 ```
+
 Abra o projeto no IntelliJ IDEA (ou sua IDE preferida).
 
 Compile e execute a classe Main.java.
